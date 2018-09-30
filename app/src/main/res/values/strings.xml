@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Exercise2_</string>
+    <string name="app_name">Exercise2</string>
+    <string name="input_hint">Enter a message&#8230;</string>
+    <string name="btn_send">Send message</string>
+    <string name="js">JavaScript</string>
+    <string name="react">React</string>
+    <string name="name">Gauhar Zhumabek</string>
+    <string name="insta">instagram</string>
+    <string name="fb">Facebook</string>
+    <string name="git">Github</string>
+    <string name="aboutMe">Hi, my name is Gauhar.
+        Currently working as Senior JavaScript + React Developer at Luxoft in Moscow.</string>
 </resources>
